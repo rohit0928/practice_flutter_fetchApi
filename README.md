@@ -1,6 +1,8 @@
 # api_fetch
 
 A new Flutter project.
+![randomfetchapi1](https://github.com/rohit0928/practice_flutter_fetchApi/assets/125487738/96fa4cd9-58a7-4fbd-89a0-f42e9e3c9c91)
+![randomfetchapi2](https://github.com/rohit0928/practice_flutter_fetchApi/assets/125487738/af26172d-2b57-4ea4-be3f-594b006e8c9c)
 
 ## Getting Started
 
